@@ -30,9 +30,8 @@ Click the "Hint" button to ask ChatGPT for the best legal move.
 
 **To use the Hint functionality (powered by ChatGPT), you must have your own OpenAI API key.**
 1. Open the ChatGptClient.cs file that is located at Utils folder.
-2. Locate the line that defines the API key:
-3. private readonly string ChatGptUser = "chatGptUser";
-4. Replace "chatGptUser" with your actual ChatGPT API key from OpenAI.
+2. Locate the line that defines the API key: private readonly string ChatGptUser = "chatGptUser";
+3. Replace "chatGptUser" with your actual ChatGPT API key from OpenAI.
 
 ## AI Details
 
