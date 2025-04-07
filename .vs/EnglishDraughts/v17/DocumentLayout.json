@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\verav\\source\\repos\\EnglishDraughts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08956AB9-1F3B-4C4D-B37D-0FFE7A96F831}|EnglishDraughts\\EnglishDraughts.csproj|c:\\users\\verav\\source\\repos\\englishdraughts\\englishdraughts\\utils\\chatgptclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08956AB9-1F3B-4C4D-B37D-0FFE7A96F831}|EnglishDraughts\\EnglishDraughts.csproj|solutionrelative:englishdraughts\\utils\\chatgptclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08956AB9-1F3B-4C4D-B37D-0FFE7A96F831}|EnglishDraughts\\EnglishDraughts.csproj|C:\\Users\\verav\\source\\repos\\EnglishDraughts\\englishdraughts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08956AB9-1F3B-4C4D-B37D-0FFE7A96F831}|EnglishDraughts\\EnglishDraughts.csproj|solutionrelative:englishdraughts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08956AB9-1F3B-4C4D-B37D-0FFE7A96F831}|EnglishDraughts\\EnglishDraughts.csproj|c:\\users\\verav\\source\\repos\\englishdraughts\\englishdraughts\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08956AB9-1F3B-4C4D-B37D-0FFE7A96F831}|EnglishDraughts\\EnglishDraughts.csproj|solutionrelative:englishdraughts\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08956AB9-1F3B-4C4D-B37D-0FFE7A96F831}|EnglishDraughts\\EnglishDraughts.csproj|C:\\Users\\verav\\source\\repos\\EnglishDraughts\\englishdraughts\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08956AB9-1F3B-4C4D-B37D-0FFE7A96F831}|EnglishDraughts\\EnglishDraughts.csproj|solutionrelative:englishdraughts\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatGptClient.cs",
+              "DocumentMoniker": "C:\\Users\\verav\\source\\repos\\EnglishDraughts\\EnglishDraughts\\Utils\\ChatGptClient.cs",
+              "RelativeDocumentMoniker": "EnglishDraughts\\Utils\\ChatGptClient.cs",
+              "ToolTip": "C:\\Users\\verav\\source\\repos\\EnglishDraughts\\EnglishDraughts\\Utils\\ChatGptClient.cs",
+              "RelativeToolTip": "EnglishDraughts\\Utils\\ChatGptClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAACJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T20:02:26.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\verav\\source\\repos\\EnglishDraughts\\EnglishDraughts\\Form1.cs",
+              "RelativeDocumentMoniker": "EnglishDraughts\\Form1.cs",
+              "ToolTip": "C:\\Users\\verav\\source\\repos\\EnglishDraughts\\EnglishDraughts\\Form1.cs",
+              "RelativeToolTip": "EnglishDraughts\\Form1.cs",
+              "ViewState": "AQIAADADAAAAAAAAAIA6wEoDAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T18:10:38.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\verav\\source\\repos\\EnglishDraughts\\EnglishDraughts\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "EnglishDraughts\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\verav\\source\\repos\\EnglishDraughts\\EnglishDraughts\\Form1.Designer.cs",
+              "RelativeToolTip": "EnglishDraughts\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T18:09:24.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\verav\\source\\repos\\EnglishDraughts\\EnglishDraughts\\Program.cs",
+              "RelativeDocumentMoniker": "EnglishDraughts\\Program.cs",
+              "ToolTip": "C:\\Users\\verav\\source\\repos\\EnglishDraughts\\EnglishDraughts\\Program.cs",
+              "RelativeToolTip": "EnglishDraughts\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T17:57:45.074Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

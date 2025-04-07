@@ -1,0 +1,146 @@
+C:\Users\verav\source\repos\EnglishDraughts\EnglishDraughts\obj\Debug\EnglishDraughts.csproj.AssemblyReference.cache
+C:\Users\verav\source\repos\EnglishDraughts\EnglishDraughts\obj\Debug\EnglishDraughts.Form1.resources
+C:\Users\verav\source\repos\EnglishDraughts\EnglishDraughts\obj\Debug\EnglishDraughts.Properties.Resources.resources
+C:\Users\verav\source\repos\EnglishDraughts\EnglishDraughts\obj\Debug\EnglishDraughts.csproj.GenerateResource.cache
+C:\Users\verav\source\repos\EnglishDraughts\EnglishDraughts\obj\Debug\EnglishDraughts.csproj.CoreCompileInputs.cache
+C:\Users\verav\source\repos\EnglishDraughts\EnglishDraughts\bin\Debug\EnglishDraughts.exe.config
+C:\Users\verav\source\repos\EnglishDraughts\EnglishDraughts\bin\Debug\EnglishDraughts.exe
+C:\Users\verav\source\repos\EnglishDraughts\EnglishDraughts\bin\Debug\EnglishDraughts.pdb
+C:\Users\verav\source\repos\EnglishDraughts\EnglishDraughts\obj\Debug\EnglishDraughts.exe
+C:\Users\verav\source\repos\EnglishDraughts\EnglishDraughts\obj\Debug\EnglishDraughts.pdb
+C:\Users\verav\source\repos\EnglishDraughts - bez izmena\EnglishDraughts\bin\Debug\EnglishDraughts.exe.config
+C:\Users\verav\source\repos\EnglishDraughts - bez izmena\EnglishDraughts\bin\Debug\EnglishDraughts.exe
+C:\Users\verav\source\repos\EnglishDraughts - bez izmena\EnglishDraughts\bin\Debug\EnglishDraughts.pdb
+C:\Users\verav\source\repos\EnglishDraughts - bez izmena\EnglishDraughts\obj\Debug\EnglishDraughts.csproj.AssemblyReference.cache
+C:\Users\verav\source\repos\EnglishDraughts - bez izmena\EnglishDraughts\obj\Debug\EnglishDraughts.Form1.resources
+C:\Users\verav\source\repos\EnglishDraughts - bez izmena\EnglishDraughts\obj\Debug\EnglishDraughts.Properties.Resources.resources
+C:\Users\verav\source\repos\EnglishDraughts - bez izmena\EnglishDraughts\obj\Debug\EnglishDraughts.csproj.GenerateResource.cache
+C:\Users\verav\source\repos\EnglishDraughts - bez izmena\EnglishDraughts\obj\Debug\EnglishDraughts.csproj.CoreCompileInputs.cache
+C:\Users\verav\source\repos\EnglishDraughts - bez izmena\EnglishDraughts\obj\Debug\EnglishDraughts.exe
+C:\Users\verav\source\repos\EnglishDraughts - bez izmena\EnglishDraughts\obj\Debug\EnglishDraughts.pdb
+C:\Users\verav\source\repos\EnglishDraughts - bez izmena\EnglishDraughts\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\verav\source\repos\EnglishDraughts - bez izmena\EnglishDraughts\bin\Debug\System.Buffers.dll
+C:\Users\verav\source\repos\EnglishDraughts - bez izmena\EnglishDraughts\bin\Debug\System.IO.Pipelines.dll
+C:\Users\verav\source\repos\EnglishDraughts - bez izmena\EnglishDraughts\bin\Debug\System.Memory.dll
+C:\Users\verav\source\repos\EnglishDraughts - bez izmena\EnglishDraughts\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\verav\source\repos\EnglishDraughts - bez izmena\EnglishDraughts\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\verav\source\repos\EnglishDraughts - bez izmena\EnglishDraughts\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\verav\source\repos\EnglishDraughts - bez izmena\EnglishDraughts\bin\Debug\System.Text.Json.dll
+C:\Users\verav\source\repos\EnglishDraughts - bez izmena\EnglishDraughts\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\verav\source\repos\EnglishDraughts - bez izmena\EnglishDraughts\bin\Debug\System.ValueTuple.dll
+C:\Users\verav\source\repos\EnglishDraughts - bez izmena\EnglishDraughts\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\verav\source\repos\EnglishDraughts - bez izmena\EnglishDraughts\bin\Debug\System.Buffers.xml
+C:\Users\verav\source\repos\EnglishDraughts - bez izmena\EnglishDraughts\bin\Debug\System.IO.Pipelines.xml
+C:\Users\verav\source\repos\EnglishDraughts - bez izmena\EnglishDraughts\bin\Debug\System.Memory.xml
+C:\Users\verav\source\repos\EnglishDraughts - bez izmena\EnglishDraughts\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\verav\source\repos\EnglishDraughts - bez izmena\EnglishDraughts\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\verav\source\repos\EnglishDraughts - bez izmena\EnglishDraughts\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\verav\source\repos\EnglishDraughts - bez izmena\EnglishDraughts\bin\Debug\System.Text.Json.xml
+C:\Users\verav\source\repos\EnglishDraughts - bez izmena\EnglishDraughts\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\verav\source\repos\EnglishDraughts - bez izmena\EnglishDraughts\bin\Debug\System.ValueTuple.xml
+C:\Users\verav\source\repos\EnglishDraughts - bez izmena\EnglishDraughts\obj\Debug\EnglishD.103F842F.Up2Date
+C:\Users\verav\source\repos\EnglishDraughts - bez izmena\EnglishDraughts\bin\Debug\Assets\black.png
+C:\Users\verav\source\repos\EnglishDraughts - bez izmena\EnglishDraughts\bin\Debug\Assets\black_draught.png
+C:\Users\verav\source\repos\EnglishDraughts - bez izmena\EnglishDraughts\bin\Debug\Assets\crown.ico
+C:\Users\verav\source\repos\EnglishDraughts - bez izmena\EnglishDraughts\bin\Debug\Assets\white.png
+C:\Users\verav\source\repos\EnglishDraughts - bez izmena\EnglishDraughts\bin\Debug\Assets\white_draught.png
+C:\Users\verav\source\repos\EnglishDraughts - sve zavrseno\EnglishDraughts\bin\Debug\Assets\black.png
+C:\Users\verav\source\repos\EnglishDraughts - sve zavrseno\EnglishDraughts\bin\Debug\Assets\black_draught.png
+C:\Users\verav\source\repos\EnglishDraughts - sve zavrseno\EnglishDraughts\bin\Debug\Assets\white.png
+C:\Users\verav\source\repos\EnglishDraughts - sve zavrseno\EnglishDraughts\bin\Debug\Assets\white_draught.png
+C:\Users\verav\source\repos\EnglishDraughts - sve zavrseno\EnglishDraughts\bin\Debug\Assets\crown.ico
+C:\Users\verav\source\repos\EnglishDraughts - sve zavrseno\EnglishDraughts\bin\Debug\EnglishDraughts.exe.config
+C:\Users\verav\source\repos\EnglishDraughts - sve zavrseno\EnglishDraughts\bin\Debug\EnglishDraughts.exe
+C:\Users\verav\source\repos\EnglishDraughts - sve zavrseno\EnglishDraughts\bin\Debug\EnglishDraughts.pdb
+C:\Users\verav\source\repos\EnglishDraughts - sve zavrseno\EnglishDraughts\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\verav\source\repos\EnglishDraughts - sve zavrseno\EnglishDraughts\bin\Debug\System.Buffers.dll
+C:\Users\verav\source\repos\EnglishDraughts - sve zavrseno\EnglishDraughts\bin\Debug\System.IO.Pipelines.dll
+C:\Users\verav\source\repos\EnglishDraughts - sve zavrseno\EnglishDraughts\bin\Debug\System.Memory.dll
+C:\Users\verav\source\repos\EnglishDraughts - sve zavrseno\EnglishDraughts\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\verav\source\repos\EnglishDraughts - sve zavrseno\EnglishDraughts\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\verav\source\repos\EnglishDraughts - sve zavrseno\EnglishDraughts\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\verav\source\repos\EnglishDraughts - sve zavrseno\EnglishDraughts\bin\Debug\System.Text.Json.dll
+C:\Users\verav\source\repos\EnglishDraughts - sve zavrseno\EnglishDraughts\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\verav\source\repos\EnglishDraughts - sve zavrseno\EnglishDraughts\bin\Debug\System.ValueTuple.dll
+C:\Users\verav\source\repos\EnglishDraughts - sve zavrseno\EnglishDraughts\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\verav\source\repos\EnglishDraughts - sve zavrseno\EnglishDraughts\bin\Debug\System.Buffers.xml
+C:\Users\verav\source\repos\EnglishDraughts - sve zavrseno\EnglishDraughts\bin\Debug\System.IO.Pipelines.xml
+C:\Users\verav\source\repos\EnglishDraughts - sve zavrseno\EnglishDraughts\bin\Debug\System.Memory.xml
+C:\Users\verav\source\repos\EnglishDraughts - sve zavrseno\EnglishDraughts\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\verav\source\repos\EnglishDraughts - sve zavrseno\EnglishDraughts\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\verav\source\repos\EnglishDraughts - sve zavrseno\EnglishDraughts\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\verav\source\repos\EnglishDraughts - sve zavrseno\EnglishDraughts\bin\Debug\System.Text.Json.xml
+C:\Users\verav\source\repos\EnglishDraughts - sve zavrseno\EnglishDraughts\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\verav\source\repos\EnglishDraughts - sve zavrseno\EnglishDraughts\bin\Debug\System.ValueTuple.xml
+C:\Users\verav\source\repos\EnglishDraughts - sve zavrseno\EnglishDraughts\obj\Debug\EnglishDraughts.csproj.AssemblyReference.cache
+C:\Users\verav\source\repos\EnglishDraughts - sve zavrseno\EnglishDraughts\obj\Debug\EnglishDraughts.Form1.resources
+C:\Users\verav\source\repos\EnglishDraughts - sve zavrseno\EnglishDraughts\obj\Debug\EnglishDraughts.Properties.Resources.resources
+C:\Users\verav\source\repos\EnglishDraughts - sve zavrseno\EnglishDraughts\obj\Debug\EnglishDraughts.csproj.GenerateResource.cache
+C:\Users\verav\source\repos\EnglishDraughts - sve zavrseno\EnglishDraughts\obj\Debug\EnglishDraughts.csproj.CoreCompileInputs.cache
+C:\Users\verav\source\repos\EnglishDraughts - sve zavrseno\EnglishDraughts\obj\Debug\EnglishD.103F842F.Up2Date
+C:\Users\verav\source\repos\EnglishDraughts - sve zavrseno\EnglishDraughts\obj\Debug\EnglishDraughts.exe
+C:\Users\verav\source\repos\EnglishDraughts - sve zavrseno\EnglishDraughts\obj\Debug\EnglishDraughts.pdb
+C:\Users\verav\source\repos\EnglishDraughts - proba za bonus\EnglishDraughts\bin\Debug\Assets\black.png
+C:\Users\verav\source\repos\EnglishDraughts - proba za bonus\EnglishDraughts\bin\Debug\Assets\black_draught.png
+C:\Users\verav\source\repos\EnglishDraughts - proba za bonus\EnglishDraughts\bin\Debug\Assets\white.png
+C:\Users\verav\source\repos\EnglishDraughts - proba za bonus\EnglishDraughts\bin\Debug\Assets\white_draught.png
+C:\Users\verav\source\repos\EnglishDraughts - proba za bonus\EnglishDraughts\bin\Debug\Assets\crown.ico
+C:\Users\verav\source\repos\EnglishDraughts - proba za bonus\EnglishDraughts\bin\Debug\EnglishDraughts.exe.config
+C:\Users\verav\source\repos\EnglishDraughts - proba za bonus\EnglishDraughts\bin\Debug\EnglishDraughts.exe
+C:\Users\verav\source\repos\EnglishDraughts - proba za bonus\EnglishDraughts\bin\Debug\EnglishDraughts.pdb
+C:\Users\verav\source\repos\EnglishDraughts - proba za bonus\EnglishDraughts\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\verav\source\repos\EnglishDraughts - proba za bonus\EnglishDraughts\bin\Debug\System.Buffers.dll
+C:\Users\verav\source\repos\EnglishDraughts - proba za bonus\EnglishDraughts\bin\Debug\System.IO.Pipelines.dll
+C:\Users\verav\source\repos\EnglishDraughts - proba za bonus\EnglishDraughts\bin\Debug\System.Memory.dll
+C:\Users\verav\source\repos\EnglishDraughts - proba za bonus\EnglishDraughts\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\verav\source\repos\EnglishDraughts - proba za bonus\EnglishDraughts\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\verav\source\repos\EnglishDraughts - proba za bonus\EnglishDraughts\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\verav\source\repos\EnglishDraughts - proba za bonus\EnglishDraughts\bin\Debug\System.Text.Json.dll
+C:\Users\verav\source\repos\EnglishDraughts - proba za bonus\EnglishDraughts\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\verav\source\repos\EnglishDraughts - proba za bonus\EnglishDraughts\bin\Debug\System.ValueTuple.dll
+C:\Users\verav\source\repos\EnglishDraughts - proba za bonus\EnglishDraughts\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\verav\source\repos\EnglishDraughts - proba za bonus\EnglishDraughts\bin\Debug\System.Buffers.xml
+C:\Users\verav\source\repos\EnglishDraughts - proba za bonus\EnglishDraughts\bin\Debug\System.IO.Pipelines.xml
+C:\Users\verav\source\repos\EnglishDraughts - proba za bonus\EnglishDraughts\bin\Debug\System.Memory.xml
+C:\Users\verav\source\repos\EnglishDraughts - proba za bonus\EnglishDraughts\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\verav\source\repos\EnglishDraughts - proba za bonus\EnglishDraughts\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\verav\source\repos\EnglishDraughts - proba za bonus\EnglishDraughts\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\verav\source\repos\EnglishDraughts - proba za bonus\EnglishDraughts\bin\Debug\System.Text.Json.xml
+C:\Users\verav\source\repos\EnglishDraughts - proba za bonus\EnglishDraughts\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\verav\source\repos\EnglishDraughts - proba za bonus\EnglishDraughts\bin\Debug\System.ValueTuple.xml
+C:\Users\verav\source\repos\EnglishDraughts - proba za bonus\EnglishDraughts\obj\Debug\EnglishDraughts.csproj.AssemblyReference.cache
+C:\Users\verav\source\repos\EnglishDraughts - proba za bonus\EnglishDraughts\obj\Debug\EnglishDraughts.Form1.resources
+C:\Users\verav\source\repos\EnglishDraughts - proba za bonus\EnglishDraughts\obj\Debug\EnglishDraughts.Properties.Resources.resources
+C:\Users\verav\source\repos\EnglishDraughts - proba za bonus\EnglishDraughts\obj\Debug\EnglishDraughts.SetupGameDialog.resources
+C:\Users\verav\source\repos\EnglishDraughts - proba za bonus\EnglishDraughts\obj\Debug\EnglishDraughts.csproj.GenerateResource.cache
+C:\Users\verav\source\repos\EnglishDraughts - proba za bonus\EnglishDraughts\obj\Debug\EnglishDraughts.csproj.CoreCompileInputs.cache
+C:\Users\verav\source\repos\EnglishDraughts - proba za bonus\EnglishDraughts\obj\Debug\EnglishD.103F842F.Up2Date
+C:\Users\verav\source\repos\EnglishDraughts - proba za bonus\EnglishDraughts\obj\Debug\EnglishDraughts.exe
+C:\Users\verav\source\repos\EnglishDraughts - proba za bonus\EnglishDraughts\obj\Debug\EnglishDraughts.pdb
+C:\Users\verav\source\repos\EnglishDraughts\EnglishDraughts\bin\Debug\Assets\black.png
+C:\Users\verav\source\repos\EnglishDraughts\EnglishDraughts\bin\Debug\Assets\black_draught.png
+C:\Users\verav\source\repos\EnglishDraughts\EnglishDraughts\bin\Debug\Assets\white.png
+C:\Users\verav\source\repos\EnglishDraughts\EnglishDraughts\bin\Debug\Assets\white_draught.png
+C:\Users\verav\source\repos\EnglishDraughts\EnglishDraughts\bin\Debug\Assets\crown.ico
+C:\Users\verav\source\repos\EnglishDraughts\EnglishDraughts\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\verav\source\repos\EnglishDraughts\EnglishDraughts\bin\Debug\System.Buffers.dll
+C:\Users\verav\source\repos\EnglishDraughts\EnglishDraughts\bin\Debug\System.IO.Pipelines.dll
+C:\Users\verav\source\repos\EnglishDraughts\EnglishDraughts\bin\Debug\System.Memory.dll
+C:\Users\verav\source\repos\EnglishDraughts\EnglishDraughts\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\verav\source\repos\EnglishDraughts\EnglishDraughts\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\verav\source\repos\EnglishDraughts\EnglishDraughts\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\verav\source\repos\EnglishDraughts\EnglishDraughts\bin\Debug\System.Text.Json.dll
+C:\Users\verav\source\repos\EnglishDraughts\EnglishDraughts\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\verav\source\repos\EnglishDraughts\EnglishDraughts\bin\Debug\System.ValueTuple.dll
+C:\Users\verav\source\repos\EnglishDraughts\EnglishDraughts\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\verav\source\repos\EnglishDraughts\EnglishDraughts\bin\Debug\System.Buffers.xml
+C:\Users\verav\source\repos\EnglishDraughts\EnglishDraughts\bin\Debug\System.IO.Pipelines.xml
+C:\Users\verav\source\repos\EnglishDraughts\EnglishDraughts\bin\Debug\System.Memory.xml
+C:\Users\verav\source\repos\EnglishDraughts\EnglishDraughts\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\verav\source\repos\EnglishDraughts\EnglishDraughts\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\verav\source\repos\EnglishDraughts\EnglishDraughts\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\verav\source\repos\EnglishDraughts\EnglishDraughts\bin\Debug\System.Text.Json.xml
+C:\Users\verav\source\repos\EnglishDraughts\EnglishDraughts\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\verav\source\repos\EnglishDraughts\EnglishDraughts\bin\Debug\System.ValueTuple.xml
+C:\Users\verav\source\repos\EnglishDraughts\EnglishDraughts\obj\Debug\EnglishDraughts.SetupGameDialog.resources
+C:\Users\verav\source\repos\EnglishDraughts\EnglishDraughts\obj\Debug\EnglishD.103F842F.Up2Date
